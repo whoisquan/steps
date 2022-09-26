@@ -1,0 +1,2 @@
+# steps
+static document individually
